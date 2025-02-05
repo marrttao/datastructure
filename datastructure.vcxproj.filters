@@ -4,10 +4,18 @@
     <Filter Include="main">
       <UniqueIdentifier>{e505aefb-5c61-466b-bd41-841548ad5481}</UniqueIdentifier>
     </Filter>
+    <Filter Include="stack">
+      <UniqueIdentifier>{6cf34283-cd4c-4160-8be5-e76304f3c48c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stack.h">
+      <Filter>stack</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
